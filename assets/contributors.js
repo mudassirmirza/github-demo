@@ -8,6 +8,10 @@ export const contributors = [
     githubProfile: 'https://github.com/AlirezaTeimoori'
   },
   {
+    name: 'Mud Mirza',
+    githubProfile: 'https://github.com/mudmirza'
+  },
+  {
     name: 'kamalchah',
     githubProfile: 'https://github.com/kamalchah'
   },
